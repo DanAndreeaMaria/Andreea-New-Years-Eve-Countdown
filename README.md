@@ -25,4 +25,6 @@ I wanted to make an animated app where everything moves and it's "alive" and I m
 * How to use GitHub (finally)
 * To never underestimate your power!
 
-
+## #30NitesOfCode:
+  [Check out my progress!](https://codedex-git-feature-30-nites-of-code-codedex.vercel.app/@Andreea/30-nites-of-code)  
+  ![@Andreea #30NitesOfCode](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=Andreea)
